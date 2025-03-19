@@ -50,3 +50,18 @@ Lista de Tarefas:
 - [ ] Finalizar a Reunião com Cliente
 - [ ] Receber Pagamento
 
+---
+
+ Num | Nome | Nota
+ ---|---|---
+ 1 | Cleberso | 8,5
+ 2 | Gustavo | 10,0
+ 3 | José | 9,0
+
+ Terminou a Tabela
+
+
+ ---- 
+  Não Intendo direito para que server o comando document.getElement() da Linguagem Java Script
+ 
+
